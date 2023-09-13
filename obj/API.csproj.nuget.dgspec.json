@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -49,6 +53,10 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [

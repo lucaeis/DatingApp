@@ -73,3 +73,5 @@ C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\Microsoft.Identit
 C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
 C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\CloudinaryDotNet.dll
+C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\Newtonsoft.Json.dll

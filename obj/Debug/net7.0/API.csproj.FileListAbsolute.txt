@@ -75,3 +75,9 @@ C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\CloudinaryDotNet.dll
 C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Luca\Udemy course\demo\DatingApp\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll

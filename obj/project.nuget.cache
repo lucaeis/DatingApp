@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KthCq8CI6Cds8PxZa9mx3HyApJEnL39D9VHpSpLzfJaojHL3yYg7t91fedNUOswc3i2EUL5RhY5xKOXFtOn0dw==",
+  "dgSpecHash": "1imMo7QxMSFGkeDYJOJNKlzk60RiQmAJaw/Zt8C8xMeulkfx20aAh+g4OOOb5BeijgtuwlnXw2KZgDZLOZD/Lw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luca\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Luca\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

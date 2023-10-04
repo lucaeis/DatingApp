@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\Luca\\Udemy course\\demo\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

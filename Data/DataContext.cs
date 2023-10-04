@@ -17,6 +17,7 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int,
     public DbSet<UserLike> Likes { get; set; }
     public DbSet<Message> Messages { get; set; }
     public DbSet<Group> Groups { get; set; }
+    public DbSet<Photo> Photos { get; set; }
     public DbSet<Connection> Connections { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
@@ -29,7 +30,7 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int,
             .HasForeignKey(ur => ur.UserId)
             .IsRequired();
 
-    builder.Entity<AppRole>()
+        builder.Entity<AppRole>()
             .HasMany(ur => ur.userRoles)
             .WithOne(u => u.Role)
             .HasForeignKey(ur => ur.RoleId)
@@ -59,5 +60,9 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int,
             .HasOne(u => u.Sender)
             .WithMany(m => m.MessagesSent)
             .OnDelete(DeleteBehavior.Restrict);
+
+        builder.Entity<Photo>().HasQueryFilter(p => p.IsApproved);
+
+        // builder.ApplyUtcDateTimeConverter();
     }
 }
